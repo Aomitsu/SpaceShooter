@@ -1,0 +1,1 @@
+convert -resize 20%x20% +repage img.png img.png for all imgs from make8bitart.com
